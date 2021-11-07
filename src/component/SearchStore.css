@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+}
+
+form.example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 65%;
+  background: #f1f1f1;
+}
+
+form.example input[type=button] {
+  float: left;
+  width: 30%;
+  padding: 10px;
+  background:  rgb(123, 111, 111);
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+}
+
+form.example input[type=button]:hover {
+  background: rgba(241, 236, 236, 0.65);
+}
+
+form.example::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
+form.example{
+  margin:auto;
+  max-width:300px;
+  margin-top:20px;
+}
+
+h1{
+  text-align: center;
+}
