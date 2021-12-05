@@ -39,9 +39,11 @@ This was carried out before implementing the actual application with API and thi
 <img src="https://github.com/kevinhub-tech/API/blob/main/After%20Facebook%20login%2C%20KYN%20Page.png" width="50%"></img>
 
 #### Results
-After learning enough about spring boot and React Js, the wireframe was revaluated into an application.
+After learning enough about spring boot and React Js, the wireframes were revaluated into an application.
 <img src="https://github.com/kevinhub-tech/API/blob/main/home.png">
-
+<img src="https://github.com/kevinhub-tech/API/blob/main/loginpage1.png">
 <img src="https://github.com/kevinhub-tech/API/blob/main/authenticationpage.png">
 <img src="https://github.com/kevinhub-tech/API/blob/main/afterlogin.png">
 
+#### Related Sources
+Here is the documents about the whole project in details. <a href="https://drive.google.com/drive/folders/1yfRcInncOjAOV4Wy_6C1CiY3AmPiNVZ1?usp=sharing"> Click Here ! </a>
